@@ -1,0 +1,8 @@
+v 3
+d jmpierce: Stata module to perform Juhn-Murphy-Pierce 1993 decomposition
+d 
+d Author: Ben Jann, University of Bern, ben.jann@unibe.ch
+d
+d Distribution-Date: 20230309
+f jmpierce.ado
+f jmpierce.hlp
